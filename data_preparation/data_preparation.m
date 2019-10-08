@@ -14,7 +14,7 @@ clc
 % variable of size Nx1 and the values in set {1,2,3,4,5} for {Wake, N1, N2, N3, REM} 
 %%
 % should replace with your data path
-raw_data_path = './raw_data/';
+raw_data_path = '/media/slow-storage/DataFolder/Kaare/packed_80/';
 
 % save path for mat file
 mat_path = './mat/';
