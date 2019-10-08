@@ -2,7 +2,7 @@ clear all
 close all
 clc
 
-addpath(genpath('data_preparation');
+addpath(genpath('data_preparation'));
 
 data_preparation;
 data_split;
