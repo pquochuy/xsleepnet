@@ -1,0 +1,14 @@
+../../mat_30min/n22_1_eeg.mat	1026
+../../mat_30min/n22_2_eeg.mat	931
+../../mat_30min/n60_1_eeg.mat	1446
+../../mat_30min/n60_2_eeg.mat	1214
+../../mat_30min/n63_1_eeg.mat	2060
+../../mat_30min/n63_2_eeg.mat	1096
+../../mat_30min/n68_1_eeg.mat	1291
+../../mat_30min/n68_2_eeg.mat	1064
+../../mat_30min/n71_1_eeg.mat	1080
+../../mat_30min/n71_2_eeg.mat	1679
+../../mat_30min/n72_1_eeg.mat	1109
+../../mat_30min/n72_2_eeg.mat	1102
+../../mat_30min/n74_1_eeg.mat	1430
+../../mat_30min/n74_2_eeg.mat	1051

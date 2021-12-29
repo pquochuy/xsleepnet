@@ -1,0 +1,14 @@
+../../mat/n09_1_eog.mat	1013
+../../mat/n09_2_eog.mat	981
+../../mat/n25_1_eog.mat	952
+../../mat/n25_2_eog.mat	1017
+../../mat/n31_1_eog.mat	847
+../../mat/n31_2_eog.mat	774
+../../mat/n58_1_eog.mat	1037
+../../mat/n58_2_eog.mat	1118
+../../mat/n72_1_eog.mat	989
+../../mat/n72_2_eog.mat	982
+../../mat/n74_1_eog.mat	1310
+../../mat/n74_2_eog.mat	934
+../../mat/n77_1_eog.mat	997
+../../mat/n77_2_eog.mat	1024

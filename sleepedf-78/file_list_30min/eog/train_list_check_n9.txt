@@ -1,0 +1,14 @@
+../../mat_30min/n02_1_eog.mat	1141
+../../mat_30min/n02_2_eog.mat	1229
+../../mat_30min/n09_1_eog.mat	1133
+../../mat_30min/n09_2_eog.mat	1101
+../../mat_30min/n28_1_eog.mat	1105
+../../mat_30min/n28_2_eog.mat	1185
+../../mat_30min/n29_1_eog.mat	1190
+../../mat_30min/n29_2_eog.mat	2356
+../../mat_30min/n35_1_eog.mat	1049
+../../mat_30min/n35_2_eog.mat	1129
+../../mat_30min/n50_1_eog.mat	1430
+../../mat_30min/n50_2_eog.mat	1172
+../../mat_30min/n72_1_eog.mat	1109
+../../mat_30min/n72_2_eog.mat	1102

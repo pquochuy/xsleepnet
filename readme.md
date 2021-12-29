@@ -3,7 +3,7 @@
 
 ![XSleepNet](figure/xsleepnet.png)
 
-<br/><span style="color:red">**\*\*NOTE: the code is not completed yet. Currently, only setups for MASS and SleepEDF-20 database are availble, others will be updated soon.**</span>
+<br/><span style="color:red">**\*\*NOTE: the code is not completed yet. Currently, only setups for MASS, SleepEDF-20, and SleepEDF-78 databases are availble, those for Physionet2018 and SHHS will be updated soon.**</span>
 
 These are source code and experimental setup for [SHHS](https://sleepdata.org/datasets/shhs), [MASS](https://massdb.herokuapp.com/en/), [Physionet 2018](https://physionet.org/content/challenge-2018/1.0.0/), [Sleep-EDF Explanded](https://www.physionet.org/content/sleep-edfx/1.0.0/) (both version with 20 and 78 subjects) databases. We try to keep the experiments separately for each database to ease exploring them invididually.
 
@@ -21,6 +21,8 @@ How to use:
 4. Evaluation
 - Execute the steps in `run_all.m` to compute performance metrics.
 
+<br/><span style="color:red">**\*\*NOTE for SleepEDF-20 and SleepEDF-78: meta information (e.g. light on time, light off time, etc.) are needed to process the edf files. These information is given in the directory in `sleepedf-20/\_\_sleepedf20\_meta\_info/` and `sleepedf-78/\_\_sleepedf78\_meta\_info/`, respectively. They should
+be copied into the directory where the databases are stored.**</span>
 
 Environment:
 -------------

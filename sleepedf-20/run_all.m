@@ -1,4 +1,10 @@
 % experiment with recordings cut off from light_on time to light_off time
+
+% NOTE: meta information (e.g. light on time, light off time) will be
+% needed to process the edf files by the script preprare_raw_data.m . These
+% information is given in the directory __sleepedf20_meta_info. They should
+% be placed into the directory where the data is stored.
+
 clear all
 close all
 clc

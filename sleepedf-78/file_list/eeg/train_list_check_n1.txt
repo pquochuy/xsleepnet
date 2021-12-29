@@ -1,0 +1,13 @@
+../../mat/n03_1_eeg.mat	940
+../../mat/n03_2_eeg.mat	926
+../../mat/n14_1_eeg.mat	950
+../../mat/n17_1_eeg.mat	1107
+../../mat/n17_2_eeg.mat	959
+../../mat/n44_1_eeg.mat	1159
+../../mat/n44_2_eeg.mat	1016
+../../mat/n46_1_eeg.mat	896
+../../mat/n46_2_eeg.mat	934
+../../mat/n48_1_eeg.mat	1163
+../../mat/n48_2_eeg.mat	992
+../../mat/n62_1_eeg.mat	1319
+../../mat/n62_2_eeg.mat	1733
