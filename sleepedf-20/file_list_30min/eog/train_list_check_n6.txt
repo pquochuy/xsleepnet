@@ -1,0 +1,8 @@
+../../mat_30min/n01_1_eog.mat	882
+../../mat_30min/n01_2_eog.mat	1172
+../../mat_30min/n11_1_eog.mat	1158
+../../mat_30min/n11_2_eog.mat	1140
+../../mat_30min/n13_1_eog.mat	988
+../../mat_30min/n13_2_eog.mat	1039
+../../mat_30min/n16_1_eog.mat	1004
+../../mat_30min/n16_2_eog.mat	1087

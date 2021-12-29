@@ -1,0 +1,8 @@
+../../mat_30min/n09_1_eeg.mat	1133
+../../mat_30min/n09_2_eeg.mat	1101
+../../mat_30min/n11_1_eeg.mat	1158
+../../mat_30min/n11_2_eeg.mat	1140
+../../mat_30min/n13_1_eeg.mat	988
+../../mat_30min/n13_2_eeg.mat	1039
+../../mat_30min/n18_1_eeg.mat	1061
+../../mat_30min/n18_2_eeg.mat	1065

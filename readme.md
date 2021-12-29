@@ -3,11 +3,11 @@
 
 ![XSleepNet](figure/xsleepnet.png)
 
-<br/><span style="color:red">**\*\*NOTE: the code is not completed yet. Currently, only setup for MASS database is availble, others will be updated soon.**</span>
+<br/><span style="color:red">**\*\*NOTE: the code is not completed yet. Currently, only setups for MASS and SleepEDF-20 database are availble, others will be updated soon.**</span>
 
 These are source code and experimental setup for [SHHS](https://sleepdata.org/datasets/shhs), [MASS](https://massdb.herokuapp.com/en/), [Physionet 2018](https://physionet.org/content/challenge-2018/1.0.0/), [Sleep-EDF Explanded](https://www.physionet.org/content/sleep-edfx/1.0.0/) (both version with 20 and 78 subjects) databases. We try to keep the experiments separately for each database to ease exploring them invididually.
 
-The pretrained models can be downloaded from [HERE](https://zenodo.org/deposit/5809258) to be used in combination with the code to re-produce the results in the paper. 
+The pretrained models can be downloaded from [Part 1/2](https://zenodo.org/record/5809496) and [Part 2/2](https://zenodo.org/record/5809511) to be used in combination with the code to re-produce the results in the paper. 
 
 How to use:
 -------------

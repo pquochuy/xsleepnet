@@ -1,0 +1,8 @@
+../../mat/n02_1_eeg.mat	1021
+../../mat/n02_2_eeg.mat	1109
+../../mat/n06_1_eeg.mat	797
+../../mat/n06_2_eeg.mat	1171
+../../mat/n09_1_eeg.mat	1013
+../../mat/n09_2_eeg.mat	981
+../../mat/n15_1_eeg.mat	932
+../../mat/n15_2_eeg.mat	877

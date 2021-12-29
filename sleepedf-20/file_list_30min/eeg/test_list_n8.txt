@@ -1,0 +1,2 @@
+../../mat_30min/n08_1_eeg.mat	1037
+../../mat_30min/n08_2_eeg.mat	1031

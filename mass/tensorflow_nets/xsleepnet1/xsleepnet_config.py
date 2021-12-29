@@ -10,8 +10,8 @@ class Config(object):
         self.l2_reg_lambda = 0.001
         self.training_epoch = 10
         self.batch_size = 32
-        self.evaluate_every = 200
-        self.checkpoint_every = 200
+        self.evaluate_every = 100
+        self.checkpoint_every = 100
 
         # seqsleepnet settings
         self.seq_ndim = 129 # freq

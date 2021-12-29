@@ -1,0 +1,2 @@
+../../mat_30min/n19_1_eog.mat	1000
+../../mat_30min/n19_2_eog.mat	951

@@ -22,6 +22,7 @@ for s = 1 : Nfold
     disp(['Fold: ', num2str(s),'/',num2str(Nfold)]);
     
 	train_s = train_sub{s};
+    train_check_s = train_check_sub{s};
     eval_s = eval_sub{s};
     test_s = test_sub{s};
     
@@ -29,6 +30,18 @@ for s = 1 : Nfold
     fid = fopen(train_filename,'wt');
     for i = 1 : numel(train_s)
         sname = listing(train_s(i)).name;
+        load([mat_path,sname], 'label');
+        num_sample = numel(label);
+        file_path = ['../../mat/',sname];
+        fprintf(fid, '%s\t%d\n', file_path, num_sample);
+    end
+    fclose(fid);
+    clear fid file_path
+    
+    train_check_filename = [tf_path, 'train_list_check_n', num2str(s),'.txt'];
+    fid = fopen(train_check_filename,'wt');
+    for i = 1 : numel(train_check_s)
+        sname = listing(train_check_s(i)).name;
         load([mat_path,sname], 'label');
         num_sample = numel(label);
         file_path = ['../../mat/',sname];
@@ -75,6 +88,7 @@ for s = 1 : Nfold
     disp(['Fold: ', num2str(s),'/',num2str(Nfold)]);
     
 	train_s = train_sub{s};
+    train_check_s = train_check_sub{s};
     eval_s = eval_sub{s};
     test_s = test_sub{s};
     
@@ -82,6 +96,18 @@ for s = 1 : Nfold
     fid = fopen(train_filename,'wt');
     for i = 1 : numel(train_s)
         sname = listing(train_s(i)).name;
+        load([mat_path,sname], 'label');
+        num_sample = numel(label);
+        file_path = ['../../mat/',sname];
+        fprintf(fid, '%s\t%d\n', file_path, num_sample);
+    end
+    fclose(fid);
+    clear fid file_path
+    
+    train_check_filename = [tf_path, 'train_list_check_n', num2str(s),'.txt'];
+    fid = fopen(train_check_filename,'wt');
+    for i = 1 : numel(train_check_s)
+        sname = listing(train_check_s(i)).name;
         load([mat_path,sname], 'label');
         num_sample = numel(label);
         file_path = ['../../mat/',sname];
@@ -128,6 +154,7 @@ for s = 1 : Nfold
     disp(['Fold: ', num2str(s),'/',num2str(Nfold)]);
     
 	train_s = train_sub{s};
+    train_check_s = train_check_sub{s};
     eval_s = eval_sub{s};
     test_s = test_sub{s};
     
@@ -135,6 +162,18 @@ for s = 1 : Nfold
     fid = fopen(train_filename,'wt');
     for i = 1 : numel(train_s)
         sname = listing(train_s(i)).name;
+        load([mat_path,sname], 'label');
+        num_sample = numel(label);
+        file_path = ['../../mat/',sname];
+        fprintf(fid, '%s\t%d\n', file_path, num_sample);
+    end
+    fclose(fid);
+    clear fid file_path
+    
+    train_check_filename = [tf_path, 'train_list_check_n', num2str(s),'.txt'];
+    fid = fopen(train_check_filename,'wt');
+    for i = 1 : numel(train_check_s)
+        sname = listing(train_check_s(i)).name;
         load([mat_path,sname], 'label');
         num_sample = numel(label);
         file_path = ['../../mat/',sname];

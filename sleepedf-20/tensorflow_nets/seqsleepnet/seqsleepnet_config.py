@@ -1,12 +1,8 @@
 class Config(object):
     def __init__(self):
-        # input feature dimension, e.g. LTEs
-        self.ndim = 129
-        # number of segments per subsequence
-        self.frame_seq_len = 29
-        # number of subsequences per sequence
-        self.epoch_seq_len = 16
-        # number of channels
+        self.ndim = 129 # freq dim
+        self.frame_seq_len = 29 # epoch-level sequence length
+        self.epoch_seq_len = 20 # sequence-level sequence length
         self.nchannel = 1
         self.nclass = 5
 
@@ -14,7 +10,6 @@ class Config(object):
         self.l2_reg_lambda = 0.001
         self.training_epoch = 10
         self.batch_size = 32
-        self.batch_size_per_class = 6
 
         self.dropout_keep_prob_rnn = 0.75
 

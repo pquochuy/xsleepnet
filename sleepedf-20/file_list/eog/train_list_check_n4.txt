@@ -1,0 +1,8 @@
+../../mat/n06_1_eog.mat	797
+../../mat/n06_2_eog.mat	1171
+../../mat/n08_1_eog.mat	917
+../../mat/n08_2_eog.mat	911
+../../mat/n12_1_eog.mat	991
+../../mat/n12_2_eog.mat	719
+../../mat/n19_1_eog.mat	880
+../../mat/n19_2_eog.mat	831
