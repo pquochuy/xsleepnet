@@ -1,5 +1,5 @@
 # XSleepNet
-- Huy Phan, Oliver Y. Chén, Minh C. Tran, Philipp Koch, Alfred Mertins, and Maarten De Vos. [__XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging.__](https://ieeexplore.ieee.org/abstract/document/9392272) _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2021. [Preprint](https://arxiv.org/abs/2007.05492) <br/><span style="color:red">*(in press)*</span>
+- Huy Phan, Oliver Y. Chén, Minh C. Tran, Philipp Koch, Alfred Mertins, and Maarten De Vos. [__XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging.__](https://ieeexplore.ieee.org/abstract/document/9392272) _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2021. [[Preprint]](https://arxiv.org/abs/2007.05492) <br/><span style="color:red">*(in press)*</span>
 
 ![XSleepNet](figure/xsleepnet.png)
 
