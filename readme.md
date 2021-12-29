@@ -1,9 +1,9 @@
 # XSleepNet
-- Huy Phan, Oliver Y. Chén, Minh C. Tran, Philipp Koch, Alfred Mertins, and Maarten De Vos. [__XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging.__](https://ieeexplore.ieee.org/abstract/document/9392272) _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2021<br/><span style="color:red">*(in press)[Preprint]([Preprint]))*</span>
+- Huy Phan, Oliver Y. Chén, Minh C. Tran, Philipp Koch, Alfred Mertins, and Maarten De Vos. [__XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging.__](https://ieeexplore.ieee.org/abstract/document/9392272) _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2021. [Preprint](https://arxiv.org/abs/2007.05492) <br/><span style="color:red">*(in press)*</span>
 
 ![XSleepNet](figure/xsleepnet.png)
 
-<br/><span style="color:red">*NOTE:* the code is not completed yet. Currently, only setup for MASS database is availble, others will be updated soon.</span>
+<br/><span style="color:red">**\*\*NOTE: the code is not completed yet. Currently, only setup for MASS database is availble, others will be updated soon.**</span>
 
 These are source code and experimental setup for [SHHS](https://sleepdata.org/datasets/shhs), [MASS](https://massdb.herokuapp.com/en/), [Physionet 2018](https://physionet.org/content/challenge-2018/1.0.0/), [Sleep-EDF Explanded](https://www.physionet.org/content/sleep-edfx/1.0.0/) (both version with 20 and 78 subjects) databases. We try to keep the experiments separately for each database to ease exploring them invididually.
 
@@ -36,7 +36,7 @@ Some results:
 -------------
 Sleep scoring results with the networks across the experimental databases:
 
-![scoring](figure/overall_results_.png)
+![scoring](figure/overall_results.png)
 
 Contact:
 -------------
