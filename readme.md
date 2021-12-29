@@ -21,7 +21,7 @@ How to use:
 4. Evaluation
 - Execute the steps in `run_all.m` to compute performance metrics.
 
-<br/><span style="color:red">**\*\*NOTE for SleepEDF-20 and SleepEDF-78: meta information (e.g. light on time, light off time, etc.) are needed to process the edf files. These information is given in the directory in `sleepedf-20/\_\_sleepedf20\_meta\_info/` and `sleepedf-78/\_\_sleepedf78\_meta\_info/`, respectively. They should
+<br/><span style="color:red">**\*\*NOTE for SleepEDF-20 and SleepEDF-78: meta information (e.g. light on time, light off time, etc.) are needed to process the edf files. These information is given in the directory in `sleepedf-20/__sleepedf20_meta_info/` and `sleepedf-78/__sleepedf78_meta_info/`, respectively. They should
 be copied into the directory where the databases are stored.**</span>
 
 Environment:
